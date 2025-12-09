@@ -1,1 +1,3 @@
 # SmartCart-Grocery-Store-Management-System
+
+SmartCart is a Java-based Grocery Store Management System designed to help store administrators manage both inventory and customer records efficiently. The system allows users to add, remove, search, and view grocery items categorized as perishable or non-perishable. It also manages business and individual customer profiles while generating real-time reports such as total inventory value and store summaries. The project demonstrates key object-oriented programming concepts including inheritance, abstraction, polymorphism, aggregation, and exception handling
